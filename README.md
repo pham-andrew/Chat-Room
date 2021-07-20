@@ -1,2 +1,3 @@
 # Chat-Room
-Full stack chat room deployed to Heroku
+PERN stack chat room deployed to Heroku.
+Alex Colter and Andrew Pham
